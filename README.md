@@ -6,9 +6,9 @@ Sobat Ternak is a modern and clean Flutter UI for a livestock companion app. It 
 
 ## 📱 Screenshots
 
-| Home Screen                       | Price Container                    | Post Section                      |
-|-----------------------------------|------------------------------------|-----------------------------------|
-| ![Home](assets/screenshots/1.jpg) | ![Price](assets/screenshots/2.jpg) | ![Post](assets/screenshots/3.jpg) |
+| Login Screen                       | Signup Container                    | Home Section                      |
+|------------------------------------|-------------------------------------|-----------------------------------|
+| ![Login](assets/screenshots/1.jpg) | ![Signup](assets/screenshots/2.jpg) | ![Home](assets/screenshots/3.jpg) |
 
 ---
 
